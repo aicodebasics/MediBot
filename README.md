@@ -31,5 +31,7 @@ uvicorn main:app --reload --port 8000
 # 3. ── FRONTEND (new terminal) ──
 cd ..\frontend
 npm install
+
 npm run dev
+
 Then open http://localhost:3000
